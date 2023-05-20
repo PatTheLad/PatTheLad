@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PatThyLad
-- 👀 I’m interested in the development of production ready software.
+- 👀 I’m interested in the development of easy to use/expand/understand software.
 - 🌱 I’m currently learning blazor/c#/css/html/js
