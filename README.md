@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Patrick and I'm a software dev from germany</h2>
+<h2 align="center">Hi! My name is Patrick and I'm a software dev from germany</h2>
 
 ###
 
